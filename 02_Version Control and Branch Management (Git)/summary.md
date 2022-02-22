@@ -24,4 +24,5 @@ Berikut adalah code :
 
 Berikut hasil dari praktikum ini:
 
+![Insight Network](https://user-images.githubusercontent.com/72496912/155052407-1a2d5ed2-d78b-4e1f-9087-7663f1d28e28.png)
 
