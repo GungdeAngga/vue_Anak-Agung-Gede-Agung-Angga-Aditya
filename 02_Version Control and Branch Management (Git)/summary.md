@@ -17,8 +17,11 @@ untuk menyatukan master dengan branches yang sudah di push
 membantu menyimpan perubahan yang tidak langsung di-commit tapi ini hanya sementara
 
 # Task 
-Membuat 4 branches dimana terdapat branche master, branche devloper, branche ke 3 dan branche ke 4 yang nantinya branche ke 3 dan ke 4 akan di merge pada branche devloper
+1. Membuat 4 branches dimana terdapat branche master, branche devloper, branche ke 3 dan branche ke 4 yang nantinya branche ke 3 dan ke 4 akan di merge pada branche devloper
+
+Berikut adalah code : 
+[PraktikumGIT](praktikum/PraktikumGIT)
 
 Berikut hasil dari praktikum ini:
 
-[image](Network Graph · GungdeAngga_vue_Anak-Agung-Gede-Agung-Angga-Aditya - Brave 2_19_2022 12_27_14 AM)
+
