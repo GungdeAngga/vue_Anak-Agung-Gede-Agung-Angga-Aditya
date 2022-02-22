@@ -20,7 +20,7 @@ membantu menyimpan perubahan yang tidak langsung di-commit tapi ini hanya sement
 1. Membuat 4 branches dimana terdapat branche master, branche devloper, branche ke 3 dan branche ke 4 yang nantinya branche ke 3 dan ke 4 akan di merge pada branche devloper
 
 Berikut adalah code : 
-[PraktikumGIT](praktikum/PraktikumGIT)
+[PraktikumGIT](praktikum/PraktikumGIT.html)
 
 Berikut hasil dari praktikum ini:
 
