@@ -1,5 +1,7 @@
 # 3_Introduction UI dan UX
 
+## Resume
+
 mempelajari tentang apa itu UI dan UX dimana disini dalam merancang dari UI dan UX memiliki nilai mereka sendiri seperti
 
 dalam merancang UI harus memperhatikan beberapa hal sebagai berikut: 
@@ -15,11 +17,10 @@ dan dalam merancang UX haru memperhatikan beberapa hal sebagai berikut:
 - membuat prototype dari UI 
 - memvalidasi UI yang sudah dibuatkan prototypenya
 
-# Task
+## Task
 1. cari desain UI/UX dengan tema bebas. masukkan kedalam google doc.
-2. Tuliskan secara detail fitur dan letak dari UX yang kalian temukan. (minimal 3).
-3. Tuliskan secara detail fitur dan letak dari UI yang kalian temukan. (minimal 3).
-4. Tentukan color palette dari desain tersebut.
+2. Tuliskan secara detail fitur dan letak dari UI dan UX yang di temukan. (minimal 3).
+3. Tentukan color palette dari desain tersebut.
 
 berikut adalah hasil screenshot web yang digunakan:
 ![Gaijin Net Store - Brave 2_18_2022 10_29_18 AM](https://user-images.githubusercontent.com/72496912/155054058-ce32043c-fead-4579-8308-9219a7027e9c.png)
