@@ -5,7 +5,7 @@
 belajar bagaimana cara memberikan style tambahan pada HTML agar terlihat lebih menarik, beberapa jenis yaitu:
 1. CSS inline: dimana letak penulisan CSS langsung pada bagian HTML yang diinginkan, berisikan tambahan perintah yaitu style=""
 2. CSS internal: dimana letak penulisan CSS dilakukan pada bagian "head" dengan tambahan perintah < style > isi dari CSS </ style >
-3. CSS external: dimana letak penulisan CSS dilakukan pada file yang berbeda dengan HTML yang di buat, CSS ini di panggil pada bagian "head" menggunakan perintah < link rel="stylesheet" href="nama file CSS" >
+3. CSS external: dimana letak penulisan CSS dilakukan pada file yang berbeda dengan HTML yang di buat, CSS ini di panggil pada bagian "head" menggunakan perintah < link rel="stylesheet" href="nama folder/nama file CSS" >
 
 ## Task
 1. membuat file dengan nama file1 dengan 3 kotak dengan warna biru berukuran 100px, merah dengan ukuran 100px dan hijau dengan ukuran 350px, dimana kotak warna merah dan biru bersebelahan kiri dan kanan dan kotak warna hijau berada dibawahnya
