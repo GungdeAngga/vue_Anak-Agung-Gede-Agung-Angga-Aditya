@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>file1</title>
+    <style>
+        .float-container {
+            padding: 10px;
+        }
+
+        .float-div1 {
+            float: left;
+            padding: 10px;
+            margin-left: auto;
+        }
+
+        .red {
+            width: 100px;
+            height: 100px;
+            background: red;
+            text-align: center;
+            margin-left: 1rem;
+        }
+
+        .blue {
+            width: 100px;
+            height: 100px;
+            background: blue;
+            text-align: center;
+            margin-left: 5rem;
+        }
+
+        .green {
+            width: 350px;
+            height: 350px;
+            background: green;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="float-container">
+
+        <div class="float-div1">
+            <div class="red">Saya adalah box red berukuran 100px</div>
+        </div>
+
+        <div class="float-div1">
+            <div class="blue">Saya adalah box blue berukuran 100px</div>
+        </div>
+        <br><br>
+        <div style="flex-grow: 1; margin: 100px; margin-left: 0rem;">
+            <div class="green">
+                <p>Saya adalah box green berukuran 350px</p>
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+</body>
+
+</html>
