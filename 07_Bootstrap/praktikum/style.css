@@ -1,0 +1,44 @@
+.text-simple {
+  margin-top: 100px !important;
+  font-family: 'Raleway', sans-serif;
+}
+a {
+  color: black !important;
+}
+
+a:hover {
+  color: green !important;
+}
+
+.col-md-4 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.d-grid {
+  margin-top: 200px;
+}
+
+.position-relative {
+  margin-top: 200px;
+  margin-left: 400px;
+}
+
+.text1 {
+  text-align: left;
+  margin: auto;
+  max-width: 250px;
+  margin-right: 300px;
+  margin-left: 400px;
+}
+
+.text2 {
+  text-align: left;
+  margin: auto;
+  max-width: 250px;
+  margin-right: 500px;
+  margin-left: 400px;
+}
+
+footer {
+  margin-top: 10px;
+}
