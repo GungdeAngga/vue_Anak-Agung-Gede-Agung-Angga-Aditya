@@ -17,7 +17,6 @@ if (terdaftar === true) {
 }
 
 a = b;
-const budi = lengkap_arr.filter((budi2) => budi2 === 'budi');
 console.log('array = ' + nama);
 console.log('a adalah = ' + a);
 console.log('b adalah = ' + b);
