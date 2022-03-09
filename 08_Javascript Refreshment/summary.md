@@ -21,8 +21,13 @@ yang di pelajari pada materi javascript adalah
 
 gambar
 ![no 1](https://user-images.githubusercontent.com/72496912/157397152-05feea67-7ad5-4684-abde-7590041303c7.png)
+
 ![no 2](https://user-images.githubusercontent.com/72496912/157397159-f1f847f3-e699-4a72-97e9-f9a5b40f376c.png)
+
 ![no 3](https://user-images.githubusercontent.com/72496912/157397161-ea1904fa-3230-4da5-bbac-4f8bf8ce7f30.png)
+
 ![no 4](https://user-images.githubusercontent.com/72496912/157397164-1a82d392-cdba-4724-a257-fd53828b6641.png)
+
 ![no 5](https://user-images.githubusercontent.com/72496912/157397167-da60dac6-defe-4888-a5c6-73f90da2df85.png)
+
 ![no 6](https://user-images.githubusercontent.com/72496912/157397169-b00d4ec5-3355-447d-95e5-c6815f5e5621.png)
