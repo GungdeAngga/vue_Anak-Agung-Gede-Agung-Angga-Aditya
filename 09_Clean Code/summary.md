@@ -1,5 +1,6 @@
 # 09_Clean Code
 ## resume
+
 clean code adalah istilah untuk code yang mudah dipahami, dibaca, dan di ubah oleh programmer
 penggunaan clean code sangat penting karna dalam pengembangan sistem, berkolaborasi dengan orang lain, dan dalam mengembangkan program dengan cepat sangat membantu
 ciri ciri clean code adalah
@@ -10,7 +11,8 @@ ciri ciri clean code adalah
 5. menggunakan konten seperlunya
 6. menggunakan komentar seperlunya
 7. menggunakan fungsi yang baik
-8. format yang baik
+8. format yang baik 
+
 clean code menggunakan prinsip
 1. KISS (keep it so simple)
 2. DRY (dont repeat yourself)
