@@ -1,0 +1,61 @@
+@media only screen and (min-width: 960px) {
+    body{
+        display: flexbox;
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (min-device-width: 959px) and (max-device-width: 600px) { 
+    body{
+        display: flexbox;
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (max-device-width: 599px) {
+    body{
+        display: flexbox;
+        flex-wrap: wrap;
+    }
+}
+
+.red{
+    background-color: red;
+    width: 292px;
+    height: 30px;
+ }
+
+.green{
+    background-color: green;
+    width: 292px;
+    height: 30px;
+ }
+
+.blue{
+    background-color: blue;
+    width: 292px;
+    height: 30px;
+ }
+
+.yellow{
+    background-color: yellow;
+    width: 292px;
+    height: 30px;
+ }
+
+.purple{
+    background-color: purple;
+    width: 292px;
+    height: 30px;
+ }
+
+.grey{
+    background-color: gray;
+    width: 292px;
+    height: 30px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
