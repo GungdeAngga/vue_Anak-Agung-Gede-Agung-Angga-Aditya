@@ -8,7 +8,6 @@ mempelajari tentang berbagai macam cara untuk membuat frontend
 5. menggunakan NPM untuk menginstal, meng-uninstal, melakukan update, dan dependensi untuk menjalankan proyek
 6. menggunakan GIT untuk mencatat setiap perubahan yang ada pada proyek agar tidak kacau saat mengerjakan proyek besar 
 
-
 ## Task
 1. buat kotak seperti pada PPT
 2. buat repository baru dan branch baru
