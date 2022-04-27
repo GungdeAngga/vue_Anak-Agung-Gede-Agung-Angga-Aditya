@@ -1,0 +1,33 @@
+7. insert angga menggunakan mutation kepada tabel keterangan
+query MyQuery {
+  __typename
+}
+
+mutation MyMutation {
+  insert_tabel_keterangan(objects: {id: 5, id_anggota: 3, nilai: 90, pelajaran: "sistem informasi", status: true})
+}
+
+query MyQuery {
+  __typename
+}
+
+mutation MyMutation {
+  insert_tabel_keterangan(objects: {id: 5, id_anggota: 3, nilai: 50, pelajaran: "react", status: false})
+}
+
+8. update false ke true menggunakan mutation
+query MyQuery {
+  __typename
+}
+
+mutation MyMutation {
+  update_tabel_keterangan(where: {}, _set: {status: true}) {
+    returning {
+      status
+      pelajaran
+      nilai
+      id
+      id_anggota
+    }
+  }
+}
